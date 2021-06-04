@@ -1,0 +1,12 @@
+{
+  "name": "ISS-Tracker",
+  "displayName": "ISS-Tracker",
+  "expo": {
+    "name": "ISS-Tracker",
+    "slug": "ISS-Tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
